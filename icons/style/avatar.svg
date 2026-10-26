@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- The baby avatar, in the same loose style as the breast icon: the yellow face sits slightly off
+       its navy outline, which is left open at the top-right; one swirl of hair, dot eyes, heart cheeks. -->
+  <circle cx="50" cy="50" r="50" fill="#a9d8ea"/>
+  <path d="M30 47C30 33 40 26 53 26C67 26 76 35 76 50C76 66 66 76 52 76C38 76 30 63 30 47Z" fill="#f5cd5c"/>
+  <path d="M60 25C51 21 37 24 30 34C22 45 24 61 34 69C44 77 60 77 69 68C76 61 78 50 75 41" fill="none" stroke="#2f4a86" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M51 26C46 21 47 14 53 13C58 12 61 17 58 20C56 22 53 21 53 19" fill="none" stroke="#2f4a86" stroke-width="3.2" stroke-linecap="round"/>
+  <circle cx="42" cy="47" r="2.8" fill="#2f4a86"/>
+  <circle cx="60" cy="47" r="2.8" fill="#2f4a86"/>
+  <path d="M38 56c-2-2.4 1.2-5 3-2.6 1.8-2.4 5 .2 3 2.6l-3 3z" fill="#f2a28e"/>
+  <path d="M60 56c-2-2.4 1.2-5 3-2.6 1.8-2.4 5 .2 3 2.6l-3 3z" fill="#f2a28e"/>
+  <path d="M46 60c2.4 2.6 6.6 2.6 9 0" fill="none" stroke="#2f4a86" stroke-width="2.8" stroke-linecap="round"/>
+</svg>

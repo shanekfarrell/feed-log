@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Breast icon, our own design: a yellow circle printed slightly off a navy ring that's open
+       at the top, with a navy dot for the nipple. Same image for Left and Right. -->
+  <circle cx="57" cy="57" r="27" fill="#f5cd5c"/>
+  <path d="M28 30A30 30 0 1 0 74 27" fill="none" stroke="#2f4a86" stroke-width="4.2" stroke-linecap="round"/>
+  <circle cx="51" cy="55" r="5.5" fill="#2f4a86"/>
+</svg>
